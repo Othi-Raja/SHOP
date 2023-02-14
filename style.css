@@ -1,0 +1,21 @@
+.ler{
+    left: 30%;
+    top: 37%;
+}
+.col{
+    position: absolute;
+    color:grey;
+    left: 69%;
+    top: 42%;
+    font-size: 15px;
+}
+.size{
+    size: 90%;
+}
+.col1{
+    position: absolute;
+    color:grey;
+    left: 28%;
+    top: 45%;
+    font-size: 16px;s
+}
