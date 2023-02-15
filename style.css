@@ -19,3 +19,15 @@
     top: 45%;
     font-size: 16px;s
 }
+
+* {
+    margin: 0;
+padding: 0;
+}
+.img{
+    background: url("Untitled design 6.12.02 PM.png");
+    height: 100vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
